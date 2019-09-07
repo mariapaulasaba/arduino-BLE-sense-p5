@@ -3,7 +3,7 @@
  * and to store in a service that can be read by central devices.
  * 
  * WIP, Last Updated 9/7/2018
- * Created by Maria Paula Saba and Maxwell Dayvison
+ * Created by Maria Paula Saba and Maxwell Dayvson
  */
 
 
