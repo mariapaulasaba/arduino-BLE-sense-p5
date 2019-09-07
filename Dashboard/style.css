@@ -1,0 +1,41 @@
+ body {     
+    background-color: #fafafa;   
+    margin:0;
+    font-family: sans-serif;
+}
+
+
+#header{
+    margin: 20px;    
+}
+
+h1{
+   display: inline;
+    color: #003436;
+    font-weight: 500;
+    font-size: 32px;
+ }    
+
+hr{
+    margin:0;
+}
+
+
+#connect{
+	height: 36px;
+    width: 90px;
+    font-size: 16px;
+    background-color: #00979D;
+    color: #FFF;
+    border-radius: 4px;
+    float:right;
+}
+
+#connect:hover{
+    background-color: #02767b;
+    auto
+}
+
+#connect:focus{
+    outline: 0;
+}
