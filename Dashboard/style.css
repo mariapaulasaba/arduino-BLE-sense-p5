@@ -21,21 +21,22 @@ hr{
 }
 
 
-#connect{
+button{
 	height: 36px;
-    width: 90px;
+    width: 120px;
     font-size: 16px;
     background-color: #00979D;
     color: #FFF;
     border-radius: 4px;
     float:right;
+    margin-right:10px;
 }
 
-#connect:hover{
+button:hover{
     background-color: #02767b;
-    auto
 }
 
-#connect:focus{
+button:focus{
     outline: 0;
 }
+
